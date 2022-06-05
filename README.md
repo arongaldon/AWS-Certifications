@@ -30,26 +30,6 @@ On-demand resources and applications through the Internet pay-as-you-go.
 2. Paas: hardware and software managed by your provider.
 3. Saas: complete solution.
 
-## EC2
-
-Virtual machines.
-
-### Instance types
-
-1. General purpose
-2. Compute optimized
-3. Memory optimized
-4. Accelerated computing
-5. Storage optimized
-
-### Pricing
-
-1. On-Demand
-2. Savings Plans
-3. Reserved Instances
-4. Spot Instances
-5. Dedicated Hosts
-
 ## Cost Management
 
 * AWS Application Cost Profiler
@@ -99,6 +79,24 @@ Virtual machines.
   * [AWS Batch](https://docs.aws.amazon.com/batch/latest/userguide/what-is-batch.html) - Run workloads
 
 * EC2
+
+  Virtual machines.
+
+  Instance types:
+
+  1. General purpose
+  2. Compute optimized
+  3. Memory optimized
+  4. Accelerated computing
+  5. Storage optimized
+
+  Pricing:
+
+  1. On-Demand
+  2. Savings Plans
+  3. Reserved Instances
+  4. Spot Instances
+  5. Dedicated Hosts
 
   * [Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html) - Scalable computing - virtual servers
 
