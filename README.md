@@ -1,4 +1,4 @@
-# AWS-CLF-01
+# AWS-CLF-C01
 AWS Certified Cloud Practitioner notes.
 
-https://github.com/arongaldon/AWS-CLF-01/wiki
+https://github.com/arongaldon/AWS-CLF-C01/wiki
