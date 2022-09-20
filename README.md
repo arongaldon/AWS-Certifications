@@ -1,4 +1,5 @@
-# AWS-CLF-C01
-AWS Certified Cloud Practitioner notes.
+# AWS Certifications
 
-https://github.com/arongaldon/AWS-CLF-C01/wiki
+Notes about AWS Certified Cloud exams.
+
+https://github.com/arongaldon/AWS-Certifications/wiki
